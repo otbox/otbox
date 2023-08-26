@@ -5,7 +5,7 @@
 
   <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=otbox&theme=transparent" />
 
-- Estudando Typescritp + React
+- Estudando Typescript + React
 - Mobile Developing (React Native)
 #### Técnologias Conhecidas:
 - SQL
