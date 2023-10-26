@@ -7,6 +7,7 @@
 
 - Estudando Typescript + React
 - Mobile Developing (React Native)
+- Tentando ser melho :)
 #### Técnologias Conhecidas:
 - SQL
 - Java
