@@ -12,6 +12,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 - Estudando Typescript + React
 - Mobile Developing (React Native)
