@@ -18,6 +18,8 @@
 - Estudando Typescript + React
 - Mobile Developing (React Native)
 - Tentando ser melhor :)
+- Cursando Análise e Desenvolvimento de Sistemas na Unicamp
+  
 <br/>
 
 #### Técnologias Conhecidas:
