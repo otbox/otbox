@@ -1,5 +1,7 @@
  ## Olá! Sou o Otávio Marques Cruz 🫡
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
  <img loading="lazy" align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=otbox&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=otbox&theme=transparent&size_weight=0.5&count_weight=0.5&count_private=false" />
